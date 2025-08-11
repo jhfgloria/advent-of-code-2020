@@ -7,6 +7,8 @@ spec:
   type: application
   lifecycle: production
   owner: developers
+  dependencyOf:
+    - component:default/advent-of-code-2021
   links:
     - url: https://adventofcode.com/2020
       title: Advent of Code 2020
