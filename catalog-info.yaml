@@ -12,6 +12,7 @@ metadata:
 spec:
   type: application
   lifecycle: production
+  system: advent-of-code
   owner: developers
   dependencyOf:
     - component:default/advent-of-code-2021
